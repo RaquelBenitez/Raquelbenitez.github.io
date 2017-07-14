@@ -1,0 +1,29 @@
+header {
+  height: 100px;
+  background: blue;
+  text-align: center;
+  color: turquoise; 
+  font-family: curlz mt; 
+}
+
+body {
+  background: silver; 
+}
+
+img {
+  height: 150px;
+  border: 2px solid turquoise; 
+  float: right; 
+}
+
+h3 {
+  Color: Blue; 
+}
+
+P {
+ Font-family: Cursive;  
+}
+
+Section {
+ Font-family: Cursive; 
+}
